@@ -1,7 +1,7 @@
 # ModMin.github.io
 > 首次用的域名是：callinicus.online
 >
-> 后面会把域名改为：modMin.cn
+> 后面会把域名改为：modmin.cn
 
 ## 主题版权声明
 > 如果您也想用此主题，请不要忘了在网页中添加  Neil Roberts | Edward Chapman  这两位大佬的名字
